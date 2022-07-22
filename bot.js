@@ -33,19 +33,19 @@ global.APIKeys = {
 }
 
 //settings
-global.owner = ['27634090203',''] //owner number +27634090203
-global.wame = ['27634090203'] 
-global.pemilik = ['27634090203'] //owner number +27634090203
-global.premium = ['27634090203'] //premium number +27634090203
-global.pengguna = 'Drips' //username
-global.footer = 'ZIM BOT INC'
-global.botnma = 'ZIM BOT INC' //bot name
-global.botname = 'ZIM BOT V4'
-global.ownernma = 'Drips' //owner name
-global.packname = 'Drips' //sticker package name
-global.author = 'By Drips Memes' //sticker author name
+global.owner = ['447935699967] //owner number +27634090203
+global.wame = ['447935699967'] 
+global.pemilik = ['447935699967'] //owner number +27634090203
+global.premium = ['447935699967'] //premium number +27634090203
+global.pengguna = 'Tekun Bot' //username
+global.footer = 'TEKUN BOT INC'
+global.botnma = 'TEKUN BOT INC' //bot name
+global.botname = 'TEKUN BOT V4'
+global.ownernma = 'Zukato' //owner name
+global.packname = 'Tekun Bot' //sticker package name
+global.author = 'By Zukato' //sticker author name
 global.sessionName = 'session' //session name
-global.prefa = ['#','!','/',''] //prefix
+global.prefa = ['-'] //prefix
 global.sp = '🔵' //sp
 global.dripstyping = false
 global.dripsreadgroup = false
@@ -55,7 +55,7 @@ global.available = false
 global.unavailable = true
 global.limittot = 100,
 global.thumb = fs.readFileSync('./Zimbot/drips.jpg')
-global.reactmoji = '🇿🇼'
+global.reactmoji = '✌'
 global.imgjoinrpg = fs.readFileSync('./image/joinrpg.jpg')
 global.imgmining = fs.readFileSync('./image/mining.jpg')
 global.imgdevil = fs.readFileSync('./image/img/devil.jpg')
@@ -74,7 +74,7 @@ global.flaming = 'https://flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=tru
 global.mess = {
     success: 'Takaenda Done!',
     admin: '*This feature is only for admin!*',
-    botAdmin: '*zim bot  must be admin first!*',
+    botAdmin: '*Tekun bot  must be admin first!*',
     owner: '*this feature is only for zimbot owner*',
     group: '*Feature is only for groups!*',
     grouponly: '*Group Mode Only*',
@@ -90,11 +90,11 @@ global.limitawal = {
 }
 global.rpg = {
 darahawal: 100,
-besiawal: 15,
-goldawal: 10,
-emeraldawal: 5,
-umpanawal: 5,
-potionawal: 1
+besiawal: 0,
+goldawal: 0,
+emeraldawal: 0,
+umpanawal: 0,
+potionawal: 0
 }
 global.thumb = fs.readFileSync('./Zimbot/drips.jpg')
 global.visoka = { url: 'https://i.imgur.com/LbmTdhf.mp4' }
